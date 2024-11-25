@@ -1,0 +1,34 @@
+body {
+    margin: 0;
+    height: 100vh; 
+    display: flex; 
+    flex-direction: column; 
+    justify-content: first baseline; 
+    align-items: center; 
+    background-color: #bbf1f8; 
+    font-family: Arial, sans-serif; 
+}
+
+h1 {
+    margin-bottom: 20px; 
+    text-align: center; 
+}
+
+form {
+    color: white;
+    background: #3b7b7e; 
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 8px 12px rgba(0, 1, 1, 0.1); 
+    text-align: center; 
+    width: 300px; 
+}
+
+button{
+    border-radius: 10%;
+    background-color: rgb(24, 224, 231);
+}
+footer{
+    font-size: xx-small;
+    align-items: end;
+}
